@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RESTA
 {
-    public class Class1
+    public class RestarClass
     {
         /// <rest>
         /// 
@@ -14,7 +14,7 @@ namespace RESTA
         /// <param name="a"></param>
         /// <param name="b"></param>
         /// <returns></returns>
-        public static long  Resta (long a, long b)
+        public static float  Resta (float a, float b)
         {
             return (a - b);
         }
